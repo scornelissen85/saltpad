@@ -1,4 +1,4 @@
-FROM node
+FROM hypriot/rpi-node
 MAINTAINER Boris Feld <lothiraldan@gmail.com>
 
 # Prepare app directory
